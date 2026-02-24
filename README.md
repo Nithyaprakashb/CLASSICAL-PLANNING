@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-<h3>Name: S.Jeevasri                       </h3>
-<h3>Register Number: 212224020019                </h3>
+<h3>Name: NITHYA PRAKASH B                       </h3>
+<h3>Register Number: 212224050026                </h3>
 
 # Algorithm or Steps Involved:
 <ol>
